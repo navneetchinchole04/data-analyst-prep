@@ -6,7 +6,7 @@ Done:
   1. Recyclable and Low Fat Products (solved)
   2. Find Customer Referee (solved)
   3. Big Countries (solved)
-  4. Article Views I
+  4. Article Views I (solved)
 - Aptitude: percentages (Remaining)
 ```
 Stuck on: reading problem statements
