@@ -1,4 +1,4 @@
-## Day 1: Mon 9 Nov 2026
+## Day 1: Tue 10 Nov 2026
 Hours studied: (write your number)
 Done:
 - SQLBolt lessons 1 to 6
