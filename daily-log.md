@@ -3,7 +3,7 @@ Hours studied: (write your number)
 Done:
 - SQLBolt lessons 1 to 6
 - LeetCode:
-  -** Select**
+  - ** Select**
   1. Recyclable and Low Fat Products (solved)
   2. Find Customer Referee (solved)
   3. Big Countries (solved)
