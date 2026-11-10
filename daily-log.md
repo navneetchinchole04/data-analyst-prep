@@ -2,7 +2,10 @@ Day 1: Tue 10 Nov 2026
 Hours studied: (write your number)
 Done:
 - SQLBolt lessons 1 to 6
-- LeetCode: Recyclable and Low Fat Products (solved); Find Customer Referee (solved)
+- LeetCode:
+  1. Recyclable and Low Fat Products (solved)
+  2. Find Customer Referee (solved)
+  3. Big Countries (solved)
 - Aptitude: percentages (Remaining)
 ```
 Stuck on: reading problem statements
