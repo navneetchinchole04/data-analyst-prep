@@ -7,6 +7,7 @@ Done:
   2. Find Customer Referee (solved)
   3. Big Countries (solved)
   4. Article Views I (solved)
+  5. Invalid Tweets (solved)
 - Aptitude: percentages (Remaining)
 ```
 Stuck on: reading problem statements
