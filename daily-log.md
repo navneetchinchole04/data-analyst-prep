@@ -3,13 +3,13 @@ Hours studied: (write your number)
 Done:
 - SQLBolt lessons 1 to 6
 - LeetCode:
-  - Select
+  -** Select**
   1. Recyclable and Low Fat Products (solved)
   2. Find Customer Referee (solved)
   3. Big Countries (solved)
   4. Article Views I (solved)
   5. Invalid Tweets (solved)
-  - Basic Joins
+  - **Basic Joins**
   1. Replace Employee ID With The Unique Identifier (solved)
 - Aptitude: percentages (Remaining)
 ```
