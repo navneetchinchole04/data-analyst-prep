@@ -11,6 +11,7 @@ Done:
   5. Invalid Tweets (solved)
   - **Basic Joins**
   1. Replace Employee ID With The Unique Identifier (solved)
+  2. Product Sales Analysis I (solved)
 - Aptitude: percentages (Remaining)
 ```
 Stuck on: reading problem statements
